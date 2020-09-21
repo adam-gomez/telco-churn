@@ -1,0 +1,1 @@
+This is the repository for the telco churn classification project. Readme will be updated with additional information at a later date.
